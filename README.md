@@ -9,14 +9,11 @@ Description: This project utilizes Natural Language Processing (NLP) techniques 
 Key Technologies: Python, NLTK, Scikit-learn, Pandas​
 GitHub
 
-Location: BritishAirways_Airline_Review_Analysis.ipynb​
 
 2️⃣ Flight Booking Prediction (Machine Learning)
 Description: Leveraging machine learning algorithms, this project predicts customer flight bookings based on historical data. It encompasses data preprocessing, feature engineering, model selection, and performance evaluation.​
 
 Key Technologies: Python, Scikit-learn, Pandas​
-
-Location: Customer_Flight_Bookings_Predictive_Analysis.ipynb​
 
 
 Contributing
