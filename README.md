@@ -1,8 +1,8 @@
-Python Projects Portfolio
+#PythonProjects Portfolio
 Welcome to the Python Projects Portfolio! This repository showcases a collection of hands-on Python projects that span various domains, including data analysis, machine learning, and automation. Each project is designed to enhance Python programming skills through practical application.​
-GitHub
 
-Projects Overview
+**Projects Overview**
+
 1️⃣ Airline Review Analysis (NLP & Sentiment Analysis)
 Description: This project utilizes Natural Language Processing (NLP) techniques to analyze customer reviews of British Airways. It focuses on sentiment classification and topic modeling to derive meaningful insights from textual data.​
 
@@ -16,9 +16,10 @@ Description: Leveraging machine learning algorithms, this project predicts custo
 Key Technologies: Python, Scikit-learn, Pandas​
 
 
-Contributing
+**Contributing**
+
 Contributions are welcome! 
 
-License
+**License**
 This repository is licensed under the GPL-3.0 License.
 
